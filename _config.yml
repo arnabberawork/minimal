@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Arnab Bera </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/arnabbera1994/">LinkedIn</a> |
+  <a href="https://github.com/arnabberawork">GitHub</a>
+  
+  <br>   
+  Java webMethods Integration BPM Developer || 3X Microsoft Azure Certified || 1X webMethods Certified
+  Working in Integration domain for 7 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
